@@ -8,5 +8,6 @@ public class MainClass {
 		DispalyClass dispalyClass = new DispalyClass();
 		System.out.println("In main method");
 		dispalyClass.Dispaly();
+		System.out.println(" In main after display method");
 	}
 }
